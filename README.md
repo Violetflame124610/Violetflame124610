@@ -23,7 +23,6 @@ I love building real-world systems that combine **hardware + software**, working
 ## 🚀 What I Do
 
 - 🤖 Build IoT projects using Raspberry Pi & Arduino  
-- 💻 Develop websites & automation scripts  
 - 🐧 Work with Linux systems (CentOS 8 & 9)  
 - 🌐 Manage remote devices using SSH  
 - 📷 Camera streaming & system setups  
@@ -61,7 +60,7 @@ I love building real-world systems that combine **hardware + software**, working
 
 ## 🧪 Current Projects
 
-- Improving my Chronova website  
+- Improving my Chronova  example website  
 - Experimenting with Raspberry Pi camera systems  
 - Learning Linux server management  
 - Writing Python automation scripts  
