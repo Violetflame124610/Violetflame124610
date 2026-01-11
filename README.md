@@ -41,7 +41,7 @@ I love building real-world systems that combine **hardware + software**, working
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox)
 ![SSH](https://img.shields.io/badge/SSH-4CAF50?style=for-the-badge)
 
----
+
 
 ## 🏆 Featured Projects
 
@@ -54,35 +54,42 @@ I love building real-world systems that combine **hardware + software**, working
 ### 📂 All My Projects  
 🔗 https://github.com/Violetflame124610/Projects/tree/main  
 
----
+## 🧪 Current Projects
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Violetflame124610&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Violetflame124610&layout=compact&theme=tokyonight" />
-</p>
+- Improving my Chronova website  
+- Experimenting with Raspberry Pi camera systems  
+- Learning Linux server management  
+- Writing Python automation scripts  
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧠 Learning Roadmap
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Violetflame124610&theme=darkhub&no-frame=true" />
-</p>
+- Advanced Python  
+- Linux system administration  
+- Networking basics  
+- IoT integrations  
+- Backend fundamentals  
 
 ---
 
-## 🐍 Contribution Snake
+## 🎮 Interests
 
-![Snake animation](https://github.com/Violetflame124610/Violetflame124610/blob/output/github-contribution-grid-snake.svg)
+- Hardware tinkering  
+- Automation  
+- Open-source  
+- Tech experiments  
+- System optimization  
+
+---
+
+## 🚀 Future Plans
+
+- Build smart home projects  
+- Create useful automation tools  
+- Develop full web apps  
+- Contribute to open source  
+- Become a full-stack + IoT engineer
 
 ---
 
