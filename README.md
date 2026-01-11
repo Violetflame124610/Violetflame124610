@@ -32,7 +32,7 @@ I love building real-world systems that combine **hardware + software**, working
 ![HTML](https://img.shields.io/badge/HTML-FF6F00?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 🤖 IoT & Hardware  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino/)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi)
 
 ### 🐧 Systems & Tools  
