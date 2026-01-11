@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Violetflame!;Python+Developer;IoT+Enthusiast;Raspberry+Pi+Explorer;Linux+Power+User;Future+Engineer&center=true&width=700&height=50&color=00F7FF&size=24">
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Violetflame124610&style=for-the-badge&color=blue" />
+</p>
+
 ---
 
 ## 👋 About Me
