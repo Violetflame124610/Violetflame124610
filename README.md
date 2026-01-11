@@ -85,7 +85,7 @@ Everything I’ve built
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Violetflame124610&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Violetflame124610&show_icons=true&theme=tokyonight">
 </p>
 
 ---
@@ -93,7 +93,7 @@ Everything I’ve built
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Violetflame124610&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Violetflame124610&layout=compact&theme=tokyonight">
 </p>
 
 ---
@@ -101,7 +101,7 @@ Everything I’ve built
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Violetflame124610&theme=darkhub&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Violetflame124610&theme=darkhub&no-frame=true">
 </p>
 
 ---
