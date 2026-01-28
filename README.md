@@ -99,10 +99,10 @@ I love building real-world systems that combine **hardware + software**, working
 
 ## Websites
 
-GitHub Profile: https://github.com/Violetflame12460/ 
-My Projects Website: https://violetflame124160.github.io/
-My Google Sites Website: 
-A Wesbite with my friend: https://samanddhruva.pythonanywhere.com/
+GitHub Profile: https://github.com/Violetflame12460/ <br>
+My Projects Website: https://violetflame124160.github.io/ <br>
+My Google Sites Website: <br>
+A Wesbite with my friend: https://samanddhruva.pythonanywhere.com/ 
 
 ---
 
