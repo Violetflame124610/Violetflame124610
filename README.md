@@ -45,17 +45,7 @@ I love building real-world systems that combine **hardware + software**, working
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox)
 ![SSH](https://img.shields.io/badge/SSH-4CAF50?style=for-the-badge)
 
-
-
-## 🏆 Featured Projects
-
-### 🌐 Chronova Website  
-🔗 https://github.com/Violetflame124610/Projects/tree/main/HTML/Chronova  
-
-### 📷 Raspberry Pi 5 USB Camera Live Stream  
-🔗 https://github.com/Violetflame124610/Projects/tree/main/IOT/RPI5/Setting%20up%20camera  
-
-### 📂 All My Projects  
+## 📂 All My Projects  
 🔗 https://github.com/Violetflame124610/Projects/tree/main  
 
 ## 🧪 Current Projects
